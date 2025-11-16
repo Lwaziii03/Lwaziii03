@@ -49,7 +49,7 @@ Built and configured a small office virtual network in VirtualBox. Implemented:
 - Firewall rules & access controls  
 - VLAN simulation for network segmentation
 
-### 🖧 [Virtual Office Network Setup](https://github.com/Lwaziii03/virtual-office-network-setup-Network)
+### 🖧 [Virtual Office Network Setup](https://github.com/Lwaziii03/Virtual-Office-Network-Setup-Network_Plus)
 Designed a virtual office network prototype:
 - Configured routing and DHCP  
 - Implemented printer and file sharing  
